@@ -45,5 +45,3 @@ Customer Personality Analysis – Kaggle.
 ### Conclusion
 The dataset was successfully cleaned and prepared for further data analysis using Python and Pandas.
 
-### Author
-B.Tech – Artificial Intelligence and Machine Learning Student
